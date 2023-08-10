@@ -1,3 +1,6 @@
 manuela Chaverra 
 20
 mis aspiraciones con esta materia son aprender e interpretar bien el paradigma de programacion: programacion orientada a objetos 
+
+ya github reconocio la carpeta porque tenia un archivo en su interior
+
